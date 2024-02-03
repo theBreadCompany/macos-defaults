@@ -1,20 +1,22 @@
 ---
-title: "Connect To Server..." Button
+title: Show "Connect To Server..." Button | Finder
 description: Allow connecting to a server using a button or shortcut.
 head:
   - - meta
     - property: 'og:title'
       content: macOS defaults > Finder > "Connect To Server..." Button
   - - meta
-    - property: "og:description"
+    - property: 'og:description'
       content: Allow connecting to a server using a button or shortcut.
 ---
 
-# "Connect To Server..." Button
+# Show "Connect To Server..." Button
 
 Allow connecting to a server using a button or shortcut.
 
-NOTE: Disabling this still allows connecting by opening the server url in a browser as long as the protocol (ftp/smb/...) is handled by Finder.
+This also affects the ⌘+K shortcuts used for the button.
+
+⚠️ Disabling this still allows connecting by opening the server url in a browser as long as the protocol (ftp/smb/...) is handled by Finder.
 
 <!-- break lists -->
 
