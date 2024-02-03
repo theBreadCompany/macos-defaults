@@ -35,3 +35,4 @@ Some of its features can be customized.
 - [Title bar icons](./showwindowtitlebaricons.md)
 - [Adjust toolbar title rollover delay](./nstoolbartitleviewrolloverdelay.md)
 - [Set sidebar icon size](./nstableviewdefaultsizemode.md)
+- [Show "Connect To Server..." Button](./finder/prohibitconnectto.md)
