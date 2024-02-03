@@ -285,6 +285,10 @@ export default defineConfig({
             text: 'Set sidebar icon size',
             link: '/finder/nstableviewdefaultsizemode.md',
           },
+          {
+            text: 'Show/Hide "Connect To Server..." Button',
+            link: '/finder/prohibitconnectto.md',
+          }
         ],
       },
       {
