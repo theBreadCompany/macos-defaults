@@ -119,6 +119,7 @@ defaults rename ${domain} ${old_key} ${new_key}
 - [Title bar icons](./finder/showwindowtitlebaricons.md)
 - [Adjust toolbar title rollover delay](./finder/nstoolbartitleviewrolloverdelay.md)
 - [Set sidebar icon size](./finder/nstableviewdefaultsizemode.md)
+- [Show "Connect To Server..." Button](./finder/prohibitconnectto.md)
 
 ### Desktop
 
